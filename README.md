@@ -1,2 +1,2 @@
-# Hacktiv8-tugas
-tugas saya
+# Assignment1-Dimas
+TUGAS : Implementasi Bootstrap untuk sebuah Homepage Website
